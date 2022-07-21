@@ -16,6 +16,8 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 ## To run project
 
+## `npm init`
+
 In the project directory, you can run:
 
 ### `npm start`
